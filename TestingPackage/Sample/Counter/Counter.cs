@@ -4,8 +4,7 @@ using UnityEngine.UIElements;
 
 namespace Testing.Sample.Counter
 {
-    /*[MoonView(ViewKey = nameof(CounterView))]*/
-    [MoonView(ReferenceMode = MoonViewAttribute.ViewReferenceMode.AssetBundle)]
+    [MoonView]
     public partial class Counter : ViewBase
     {
         public Counter()
