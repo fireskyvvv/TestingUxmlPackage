@@ -1,0 +1,17 @@
+{
+    "name": "Testing.Moon.Sample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:98672309e15744edb4fb21c855308cac",
+        "GUID:3dad30c5f24d2b54c8dbea014a08b5e1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
