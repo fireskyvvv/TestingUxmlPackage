@@ -2,7 +2,7 @@ using Moon.Runtime.Core;
 using UnityEngine.UIElements;
 //using ViewInstaller = Moon.Sample.Generated.ViewInstaller;
 
-namespace Moon.Sample.Counter
+namespace Testing.Sample.Counter
 {
     /*[MoonView(ViewKey = nameof(CounterView))]*/
     [MoonView(ReferenceMode = MoonViewAttribute.ViewReferenceMode.AssetBundle)]
