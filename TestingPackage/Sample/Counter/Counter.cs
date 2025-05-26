@@ -1,4 +1,4 @@
-using Moon.Runtime.Core;
+using Moon.Runtime.Core.View;
 using UnityEngine.UIElements;
 //using ViewInstaller = Moon.Sample.Generated.ViewInstaller;
 
