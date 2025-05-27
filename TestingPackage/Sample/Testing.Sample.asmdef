@@ -2,8 +2,7 @@
     "name": "Testing.Sample",
     "rootNamespace": "",
     "references": [
-        "GUID:98672309e15744edb4fb21c855308cac",
-        "GUID:3dad30c5f24d2b54c8dbea014a08b5e1"
+        "GUID:c48544e2906df9b4da907f99975a4093"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

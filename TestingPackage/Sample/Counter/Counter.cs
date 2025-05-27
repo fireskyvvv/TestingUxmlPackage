@@ -1,10 +1,10 @@
-using Moon.Runtime.Core.View;
+using Haikara.Runtime.Core.View;
 using UnityEngine.UIElements;
 //using ViewInstaller = Moon.Sample.Generated.ViewInstaller;
 
 namespace Testing.Sample.Counter
 {
-    [MoonView]
+    [HaikaraView]
     public partial class Counter : ViewBase
     {
         public Counter()
